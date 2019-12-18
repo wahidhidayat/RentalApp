@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105091409333",
+    "firebase_url": "https://aplikasi-rental-mobil-95001.firebaseio.com",
+    "project_id": "aplikasi-rental-mobil-95001",
+    "storage_bucket": "aplikasi-rental-mobil-95001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105091409333:android:7fa1d3148b311473",
+        "android_client_info": {
+          "package_name": "com.example.asus.rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105091409333-gve8nhpml0p2ip7660ki3qi7nqv6i3qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.rental_app",
+            "certificate_hash": "c723f4f45ae80e900d4f69375a3bacbf5ee70a9f"
+          }
+        },
+        {
+          "client_id": "105091409333-kce8rv8olcqms5gi6nipebdugk2ng1l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjZZvbprLCuE7pWuxr1dUQofb-RaIy7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105091409333-kce8rv8olcqms5gi6nipebdugk2ng1l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
